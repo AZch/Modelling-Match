@@ -1,0 +1,9 @@
+sizes: 5
+homeGouls: 260 950 2100 5200 8900
+homeShots: 30 40 50 100 150
+homeRange: 0.5 0.75 1.0, 1.25 1.5
+awayGoals: 220 850 1900 5000 8700
+awayShots: 40 50 60 150 200
+awayRange: 0.5 0.75 1.0 1.25 1.5
+maxCount: 100000
+total: 2.5

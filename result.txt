@@ -1,0 +1,7 @@
+P1: 33.255
+X: 12.192
+P2: 54.553
+U2.5: 16.817
+O2.5: 83.183
+Count game: 100000
+Time read and modelling: 2.25418
